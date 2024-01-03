@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Bankai+or+Banka!)](https://git.io/typing-svg)
 
-<!--
-**MarlokytKaneki/MarlokytKaneki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am writing bots for the Discord application in Python.
 
-Here are some ideas to get you started:
+## About me
+             Name - Bankai/Banka
+             Age - 13.
+             Birthday - January 1st.
+             Languages - Russian and English.
+             Job - ?
+             Bot - ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Programming languages
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+
+## Which bible libraries do I use
+             Python - I know the Bible libraries:
+             Disnake is For writing bots on the Discord platform,
+             Sqlite3 is For databases (I don't know until the end),
+             Aiogram is for writing on the telegram platfrom (I don't know until the end).
