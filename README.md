@@ -8,7 +8,7 @@
              Birthday - January 1st.
              Languages - Russian and English.
              Job - ?
-             Bot - ?
+             Bot - [MeowBot](https://discord.com/invite/6bUpkW6n8a)
 
 
 ## Programming languages
