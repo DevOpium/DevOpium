@@ -9,6 +9,7 @@
              Languages - Russian and English.
              Job - ???
              Bot - MeowBot
+             Project - Crimson Star, Host server and high admin
 
 
 ## Programming languages
