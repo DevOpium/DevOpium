@@ -7,9 +7,9 @@
              Age - 13.
              Birthday - January 1st.
              Languages - Russian and English.
-             Job - ???
+             Job - Junior Python Developer
              Bot - MeowBot
-             Project - Crimson Star, Host server and high admin
+             Project - Crimson Star, Founder and High Administrator
 
 
 ## Programming languages
