@@ -9,7 +9,7 @@
              Languages - Russian and English.
              Job - Junior Python Developer
              Bot - MeowBot
-             Project - Crimson Star, Founder and High Administrator
+             Project - ???
 
 
 ## Programming languages
