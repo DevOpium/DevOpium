@@ -7,9 +7,9 @@
              Age - 13.
              Birthday - January 1st.
              Languages - Russian and English.
-             Job - Junior Python Developer
-             Bot - MeowBot
-             Project - ???
+             Job - Junior Python Developer.
+             Bot - The end.
+             Project - Owner Meow Empire ≫ MEM PROJECT.
 
 
 ## Programming languages
