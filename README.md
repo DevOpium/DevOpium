@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Bankai+or+Banka!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Opium!)](https://git.io/typing-svg)
 
 ## About me
-             Name - Bankai/Alexey
-             Age - 14.
+             Name - Opium/Alexey
+             Age - 13.
              Birthday - January 1st.
              Languages - Russian and English
 
@@ -18,3 +18,5 @@
              Aioconsole
              ctypes
              os
+             asyncio
+             aoisqlite
