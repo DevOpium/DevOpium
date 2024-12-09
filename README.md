@@ -12,12 +12,12 @@
 
 ## Libraries
 ### Python
-             Disnake
-             Random
-             Requests
-             Rgbprint
-             Aioconsole
+             disnake
+             random
+             requests
+             rgbprint
+             aioconsole
              ctypes
              os
              asyncio
-             aoisqlite
+             aiosqlite
